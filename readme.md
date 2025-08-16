@@ -8,7 +8,7 @@ A comprehensive pipeline for training and deploying custom DreamBooth models to 
 
 - **[Try the Live Demo →](./gradio_app/)** - Use the trained model instantly
 - **[Train Your Own Model →](./training/)** - Custom training pipeline with dataset scraping
-- **[View Examples →](./examples/)** - Generated book covers showcase
+- **[View Examples →](./Samples/)** - Generated book covers showcase
 
 ---
 
