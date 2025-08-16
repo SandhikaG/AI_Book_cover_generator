@@ -1,4 +1,4 @@
-# 🎨 AI Book Cover Generator - Complete Project
+#  AI Book Cover Generator 
 
 A comprehensive pipeline for training and deploying custom DreamBooth models to generate professional book covers using AI.
 
