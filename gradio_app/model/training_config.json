@@ -1,0 +1,9 @@
+{
+  "base_model": "runwayml/stable-diffusion-v1-5",
+  "instance_prompt": "a sks book cover",
+  "class_prompt": "a book cover",
+  "resolution": 512,
+  "max_train_steps": 800,
+  "learning_rate": 5e-06,
+  "num_instances": 181
+}
