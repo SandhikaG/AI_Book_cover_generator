@@ -50,7 +50,7 @@ ai-book-cover-generator/
 Perfect for immediate use with our pre-trained model:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-book-cover-generator.git
+git clone https://github.com/SandhikaG/AI_Book_cover_generator.git
 cd ai-book-cover-generator/gradio_app/
 pip install -r requirements.txt
 python app.py
