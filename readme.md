@@ -2,7 +2,6 @@
 
 A comprehensive pipeline for training and deploying custom DreamBooth models to generate professional book covers using AI.
 
-![Book Cover Generator](https://img.shields.io/badge/AI-Book%20Cover%20Generator-blue) ![Training](https://img.shields.io/badge/Training-DreamBooth-green) ![Interface](https://img.shields.io/badge/Interface-Gradio-orange) ![Dataset](https://img.shields.io/badge/Dataset-OpenLibrary-red)
 
 ##  Quick Links
 
